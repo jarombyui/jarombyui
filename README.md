@@ -5,7 +5,7 @@
 
 - 👯 Busco colaborar **en proyectos de tecnologia modernos y clasicos**
 
-- 💬 Puedes preguntarme sobre frameworks como **Spring, React and Tailwind**
+- 💬 Puedes preguntarme sobre frameworks como **Spring, bibliotecas como React and Tailwind**
 
 - 📫 Me puedes contactar a travez de **jaromcamposrodriguez@gmail.com**
 
