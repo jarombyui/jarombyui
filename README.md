@@ -1,15 +1,16 @@
 <h1 align="center"> Hola ! Soy desarrollador Full Stack</h1>
 <h3 align="center">mi pasión es crear soluciones tecnológicas que trasciendan y generen un impacto positivo en la vida de los usuarios</h3>
 
-- 🔭 Trabajo en proyectos de **Back-end y Front-End proyects**
+- 🔭 Trabajo en proyectos de **Back-end y Front-end projects**
 
-- 👯 Busco colaborar **en proyectos de tecnologia modernos y clasicos**
+- 👯 Busco colaborar **en proyectos de tecnologia  escalables, modernos, responsive y clasicos**
 
 - 💬 Puedes preguntarme sobre frameworks como **Spring, bibliotecas como React and Tailwind**
 
-- 📫 Me puedes contactar a travez de **jaromcamposrodriguez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+ 📫 Me puedes contactar a travez de **jaromcamposrodriguez@gmail.com**
+ <p> https://www.linkedin.com/in/jarom-campos/ </p>
 <p align="left">
 </p>
 
