@@ -13,7 +13,8 @@
  
  <p>- jaromcamposrodriguez@gmail.com</p>
  <p>- https://www.linkedin.com/in/jarom-campos/ </p>
- <p>- [https://www.linkedin.com/in/jarom-campos/](https://portafolio-jarom.vercel.app/#home) </p>
+ Proyectos:
+ <p>- https://portafolio-jarom.vercel.app/#home </p>
  <p>- +51 947726382</p>
 <p align="left">
 </p>
